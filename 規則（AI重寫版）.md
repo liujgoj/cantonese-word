@@ -95,12 +95,12 @@
 
 * **大數**：十、百、千、萬、億與數字分寫。
 * **序數**：一至十與「第」連寫（`daihyatj`）；十一以上用阿拉伯數字與連接號（`daih-13`）。
-* **日期**：月日中間加連接號。ngq-sei(五四)；yatjyih-gaur （一二·九）。
+* **日期**：月日中間加連接號。ngq-sei wanhdungh(五四運動)；yatjyih-gaur sihginr （一二·九事件）。
 * **編號**：字母數字連寫（`AK47`）；縮寫與單詞分寫（`CID 9527`）。
 
 ### 5. 成語與熟語
 
-* 整體使用嘅成語連寫，如 `batjyikhlokhfuj` (不亦樂乎)。
+* 整體使用嘅成語連寫，如 `zungryixyinxzij` (总而言之)。
 * 作為詞組或非四字熟語按單詞分寫，如 `hourwaah mx hourtengj` (好話唔好聽)。
 
 ---
@@ -115,7 +115,7 @@
 ### 2. 縮寫規則
 
 * 取每個拼寫單位或音節嘅首字母，大寫連寫。
-* 例如：`Gwongrdungj` (GD)、`singjkeix saamj` (SK saamj)。
+* 例如：`Gwongrdungj` (GD)。
 
 
 * 粵語人名原則上不縮寫。
