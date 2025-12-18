@@ -69,11 +69,16 @@
 * 例如：`aa Lokh` (阿樂)、`louq Cinx` (老錢)、`aa Leiq saangj` (阿李生)。
 
 
-* **英文組合**：英文部分首字母大寫（如為稱呼則斜體），分寫。
-* 例如：`Sunny zair` (Sunny仔)、`aa *Soex*` (阿Sir)。
+* **英文組合**：英文部分首字母大寫，分寫。
+* 例如：`Sunny zair` (Sunny仔)。
+
+
+* **親屬/普通稱謂**：分寫，首字母小寫。
+* 例如：`aa goj` (阿哥)、`aa yij` (阿姨)、`aa baaj` (阿爸)、`louq baak` (老伯)。
 
 
 * **特例**：
+* 尊稱，首字母大寫：`aa Soex` (阿Sir)。
 * 已專名化（歷史人物或組織）連寫：`Kungrzir` (孔子)、`Baaujgungj` (包公)、`Oujgei` (O記)。
 * 常用代詞連寫：`aabinjgo` (邊個)。
 
