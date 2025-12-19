@@ -62,8 +62,8 @@
 * 例如：`Wongx bouhzoengr` (王部長)、`Leiq saangj` (李生)、`Faat goj` (發哥)、`Zoengj zungr` (張總)、`Zoengj soex` (張Sir)。
 
 
-* **人名 + 建築物/組織名稱**：一律分寫，建築物/組織名稱小寫。
-* 例如：`Waah fur` (華府)、`Leiq gaaj` (李家)
+* **姓名 + 建築物/組織名稱/朝代**：一律分寫，建築物/組織名稱小寫。
+* 例如：`Waah fur` (華府)、`Leiq gaaj` (李家)、`Tongx ciux` (唐朝)。
 
 
 * **前置修飾 + 人名**：連寫，修飾詞（阿、老、小等）小寫。
