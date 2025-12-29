@@ -100,7 +100,7 @@
 
 ### 5. 成語與熟語
 
-* 整體使用嘅成語連寫，例如： `mxsaamj-mxsei` (唔三唔四)；`mouq-zing-mouq-geoi` (冇證冇據)。
+* 整體使用嘅成語連寫，例如： `sijsijmanxmanx` (斯斯文文)；`mxsaamj-mxsei` (唔三唔四)；`mouq-zing-mouq-geoi` (冇證冇據)。
 * 作為詞組或非四字熟語按單詞分寫，例如： `gongr hoij yauh gongr` (讲开又讲)；`yatj yijdaai seoir` (一衣帶水)；`pungxbatj sangjfaij` (蓬蓽生輝)。
 
 ---
