@@ -79,8 +79,10 @@
 
 
 * **特例**：
-* 已專名化（歷史人物或組織）連寫：`Kungrzir` (孔子)、`Baaujgungj` (包公)、`Oujgei` (O記)。
+* 已專名化（歷史人物或組織）連寫：`Kungrzir` (孔子)、`Baaujgungj` (包公)。
 * 常用代詞連寫：`aabinjgo` (邊個)。
+* 喺粤语中，“记”係一个后缀性词素（Suffix），它唔係一个独立嘅单词（Independent Word），而係一个专门用于构成店名或昵称嘅语言单位。
+* 例如：`Oujgei` (O記)，`Sanjgei` (新記)。
 
 
 
