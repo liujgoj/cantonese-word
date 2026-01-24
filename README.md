@@ -42,11 +42,11 @@
 
 ## 🛠️ 如何貢獻 (Contribution)
 
-我哋歡迎所有關於粵語羅馬字標準化嘅建議！如果你有 60 部電影嘅聽寫數據或其他改進意見，請隨時提交 **Pull Request** 或者開新嘅 **Issue**。
+我哋歡迎所有關於粵語羅馬字標準化嘅建議！如果你有改進意見，請隨時提交 **Pull Request** 或者開新嘅 **Issue**。
 
 ## 📄 授權 (License)
 
 本方案採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hant) 授權。
 
 ---
-**Liujgoj: Givq Yvthyvq yatj go rux gaj ge meiqluix.** (溜歌：畀粵語一個更加美妙嘅未來。)
+
