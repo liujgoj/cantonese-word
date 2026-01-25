@@ -34,9 +34,9 @@
 
 ## 💡 範例 (Example)
 
-> **漢字**: 今日嘅天氣好好，我都搵緊佢啊。
+> **漢字**: 幫主啊，我唔係二當家啊。我係盲炳啊。
 > 
-> **Liujgoj**: *Gamjyath ge tinjhei hour hour, ngoq douj wanrganr keoiq aa.*
+> **Liujgoj**: *Bongjzvr aa, ngoq mx haih yihdongjgaaj aa. Ngoq haih maangxBingr aa.*
 
 ---
 
